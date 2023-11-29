@@ -39,7 +39,7 @@ namespace prak_3_zd_1
             {
                 case 1:
                     result.Text = ("зима");
-                    break;
+                    break; 
                 case 2:
                     result.Text = ("зима");
                     break;
